@@ -1,0 +1,9 @@
+.header__links {
+  max-height: 52px;
+  display: flex;
+  align-items: flex-end;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 18px;
+}
