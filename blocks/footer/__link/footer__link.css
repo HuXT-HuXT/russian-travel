@@ -11,7 +11,7 @@
   cursor: pointer;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .footer__link {
     margin-top: 48px;
     font-size: 1.5rem;
