@@ -1,23 +1,10 @@
 # Проект: Путешествие по России
+description: exam work, 2nd sprint;
+applied methods:
+  - html - tags: h1-h4, nav,  unordered list and so on;
+  - css - flex, grid, some fonts magic;
+  - BAM - file & folders structure, class naming.
+improvement plan: no plans for now
 
-### Обзор
-* Интро
-* Figma
-* Картинки
 
-**Интро**
-
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
-
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+work has been placed here: https://huxt-huxt.github.io/russian-travel/
