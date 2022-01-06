@@ -7,7 +7,7 @@
   justify-content: space-between;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .place__title-part {
     flex-direction: column;
     flex-wrap: nowrap;
