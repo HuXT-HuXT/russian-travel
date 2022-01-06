@@ -1,0 +1,18 @@
+.place__title-part {
+  width: 100%;
+  margin: 0;
+  padding: 0 0 48px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 320px) {
+  .place__title-part {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 0 0 32px;
+  }
+}
