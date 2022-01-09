@@ -6,7 +6,7 @@
   align-self: flex-end;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 475px) {
   .place__website {
     width: 100%;
     margin-top: 32px;

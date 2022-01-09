@@ -1,5 +1,5 @@
-# Проект: Путешествие по России
-description: exam work, 2nd sprint;
+#h2 Проект: Путешествие по России
+description: exam work, 3nd sprint;
 applied methods:
   - html - tags: h1-h4, nav,  unordered list and so on;
   - css - flex, grid, some fonts magic;
