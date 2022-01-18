@@ -7,3 +7,8 @@
   max-width: 69ch;
 }
 
+@media screen and (max-width: 768px) {
+  .intro__text {
+    max-width: 100%;
+  }
+}
