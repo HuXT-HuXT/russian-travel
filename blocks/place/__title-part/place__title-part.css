@@ -7,12 +7,17 @@
   justify-content: space-between;
 }
 
+@media screen and (max-width: 630px) {
+  .place__title-part {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+}
+
 @media screen and (max-width: 425px) {
   .place__title-part {
     flex-direction: column;
-    flex-wrap: nowrap;
-    max-width: 90%;
-    margin: 0 auto;
+    flex-wrap: nowrap;    
     padding: 0 0 32px;
   }
 }
