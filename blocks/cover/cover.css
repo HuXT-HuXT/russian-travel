@@ -38,3 +38,9 @@
     padding-bottom: 62.4%;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .cover {
+    margin-top: 66px;
+  }
+}
